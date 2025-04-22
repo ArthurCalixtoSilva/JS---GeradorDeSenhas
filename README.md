@@ -6,7 +6,7 @@ Um gerador de senhas simples e funcional feito com **HTML**, **CSS** e **JavaScr
 
 ## 🚀 Funcionalidades
 
-- Defina o tamanho da senha (de 1 a 20 caracteres)
+- Defina o tamanho da senha (de 1 a 25 caracteres)
 - Geração de senha aleatória
 - Copiar senha com um clique
 - Interface moderna e responsiva
