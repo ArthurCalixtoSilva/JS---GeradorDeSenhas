@@ -4,12 +4,6 @@ Um gerador de senhas simples e funcional feito com **HTML**, **CSS** e **JavaScr
 
 ---
 
-## 📸 Prévia
-
-![Preview](./assets/logo.png)
-
----
-
 ## 🚀 Funcionalidades
 
 - Defina o tamanho da senha (de 1 a 20 caracteres)
