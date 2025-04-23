@@ -19,10 +19,6 @@ Um gerador de senhas simples e funcional feito com **HTML**, **CSS** e **JavaScr
 - CSS3
 - JavaScript
 
----
 
-## 📦 Como usar
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/gerador-de-senhas.git
+
